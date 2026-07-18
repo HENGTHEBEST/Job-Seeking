@@ -1,0 +1,6 @@
+{
+  "name": "ជួយខ្មែរ-JuoyKHMER",
+  "description": "An AI-powered career platform in Cambodia featuring job and internship recommendations, a CV builder, and an AI career coach.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
